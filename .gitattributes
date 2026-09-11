@@ -1,0 +1,8 @@
+# Generated on 2026-11-10
+Cargo.lock linguist-generated
+*.ts linguist-detectable
+src/**/*.ts linguist-detectable
+
+* text=auto
+*.html linguist-vendored
+# eof 5b5d1c96
